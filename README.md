@@ -19,7 +19,7 @@ Performed exploratory data analysis (EDA) and cohort analysis on customer churn 
 - Improve business understanding of customer behavior using spreadsheet-based tools  
 
 ## Screenshots (Optional)  
-*Include screenshots if applicable for visuals of your cohort tables or retention graphs.*
+
 
 ## Status  
 Completed – February 2025

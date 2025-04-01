@@ -18,7 +18,7 @@ Performed exploratory data analysis (EDA) and cohort analysis on customer churn 
 - Evaluate effectiveness of retention strategies over time  
 - Improve business understanding of customer behavior using spreadsheet-based tools  
 
-## Screenshots (Optional)  
+## Screenshots 
 1. Table of Contents Overview
 Displays a structured summary of all analytical tabs and their descriptions, organized by color-coded categories for clarity.
 
